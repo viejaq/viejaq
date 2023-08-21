@@ -1,4 +1,4 @@
-## Jaqueline Vieira
+## Sobre mim
 Arquiteta e Urbanista de formação, atuei na área durante 8 anos. Em busca de novos desafios e  alimentada pela paixão pela tecnologia, iniciei a graduação em Tecnologia da Informação, no ano de 2022 e atualmente meus estudos estão direcionados em HTML, CSS, JavaScript, Java e MySQL.
 
 " Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender. "
